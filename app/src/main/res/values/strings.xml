@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lr1</string>
+    <string name="student">Анна Куратова</string>
+    <string name="group">Т-333902у</string>
+    <string name="butterfly">Бабочка</string>
+    <string name="unvisible">Скрыть</string>
+</resources>
